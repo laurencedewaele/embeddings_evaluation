@@ -1,4 +1,4 @@
-# Embeddings evaluation  
+# [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurencedewaele/embeddings_evaluation/blob/main/embeddings_evaluation.ipynb)      Embeddings evaluation  
 
 Evaluation of the cosine similarities computed by four different types of models hosted on Hugging Face:
 
@@ -7,4 +7,3 @@ Evaluation of the cosine similarities computed by four different types of models
 * supervised SimCSE: `princeton-nlp/sup-simcse-roberta-base`
 * multilingual E5: `intfloat/multilingual-e5-base`  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurencedewaele/embeddings_evaluation/blob/main/embeddings_evaluation.ipynb)
