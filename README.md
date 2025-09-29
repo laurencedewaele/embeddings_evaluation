@@ -5,6 +5,6 @@ Evaluation of the cosine similarities computed by four different types of models
 * Sentence Transformer: `sentence-transformers/all-MiniLM-L6-v2`
 * unsupervised SimCSE: `princeton-nlp/unsup-simcse-roberta-base`
 * supervised SimCSE: `princeton-nlp/sup-simcse-roberta-base`
-* multilingual E5: `intfloat/multilingual-e5-base`
+* multilingual E5: `intfloat/multilingual-e5-base`  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurencedewaele/embeddings_evaluation/blob/main/embeddings_evaluation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurencedewaele/embeddings_evaluation/blob/main/Embeddings_evaluation.ipynb)
